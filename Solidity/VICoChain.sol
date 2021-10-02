@@ -2,7 +2,7 @@
 
 pragma solidity >=0.8.0;
 
-contract Infographic {
+contract VICoChain {
 
     struct Content{
         uint index;
